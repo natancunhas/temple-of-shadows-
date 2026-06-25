@@ -43,5 +43,5 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________
 
 <div align="center">
-<img width="500" height="5232" alt="documentation v1 3 official" src="https://github.com/user-attachments/assets/ef96412a-9315-4fd4-b888-0f6822f53b0b" />
+<img width="1080" height="5232" alt="documentation v1 3 official" src="https://github.com/user-attachments/assets/ef96412a-9315-4fd4-b888-0f6822f53b0b" />
 </div>
